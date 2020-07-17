@@ -2,4 +2,5 @@
 
 * [Initial page](README.md)
 * [Test](test.md)
+* [Basics](basics.md)
 
